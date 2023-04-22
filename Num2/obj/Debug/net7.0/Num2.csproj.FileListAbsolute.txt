@@ -1,0 +1,15 @@
+C:\Users\Роберт\Desktop\GeekBrains\C# HW 1.1\Num2\bin\Debug\net7.0\Num2.exe
+C:\Users\Роберт\Desktop\GeekBrains\C# HW 1.1\Num2\bin\Debug\net7.0\Num2.deps.json
+C:\Users\Роберт\Desktop\GeekBrains\C# HW 1.1\Num2\bin\Debug\net7.0\Num2.runtimeconfig.json
+C:\Users\Роберт\Desktop\GeekBrains\C# HW 1.1\Num2\bin\Debug\net7.0\Num2.dll
+C:\Users\Роберт\Desktop\GeekBrains\C# HW 1.1\Num2\bin\Debug\net7.0\Num2.pdb
+C:\Users\Роберт\Desktop\GeekBrains\C# HW 1.1\Num2\obj\Debug\net7.0\Num2.csproj.AssemblyReference.cache
+C:\Users\Роберт\Desktop\GeekBrains\C# HW 1.1\Num2\obj\Debug\net7.0\Num2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Роберт\Desktop\GeekBrains\C# HW 1.1\Num2\obj\Debug\net7.0\Num2.AssemblyInfoInputs.cache
+C:\Users\Роберт\Desktop\GeekBrains\C# HW 1.1\Num2\obj\Debug\net7.0\Num2.AssemblyInfo.cs
+C:\Users\Роберт\Desktop\GeekBrains\C# HW 1.1\Num2\obj\Debug\net7.0\Num2.csproj.CoreCompileInputs.cache
+C:\Users\Роберт\Desktop\GeekBrains\C# HW 1.1\Num2\obj\Debug\net7.0\Num2.dll
+C:\Users\Роберт\Desktop\GeekBrains\C# HW 1.1\Num2\obj\Debug\net7.0\refint\Num2.dll
+C:\Users\Роберт\Desktop\GeekBrains\C# HW 1.1\Num2\obj\Debug\net7.0\Num2.pdb
+C:\Users\Роберт\Desktop\GeekBrains\C# HW 1.1\Num2\obj\Debug\net7.0\Num2.genruntimeconfig.cache
+C:\Users\Роберт\Desktop\GeekBrains\C# HW 1.1\Num2\obj\Debug\net7.0\ref\Num2.dll
